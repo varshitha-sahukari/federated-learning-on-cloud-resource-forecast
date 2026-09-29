@@ -174,6 +174,6 @@ FedAQUILLA.ipynb
 
 ## Author
 
-**Madhusudhan**
+**Sahukari Varshitha**
 
 Data Science | Machine Learning | Federated Learning | Deep Learning
